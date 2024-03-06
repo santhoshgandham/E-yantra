@@ -1,0 +1,6 @@
+In this task, we have implemented the dijkistra algorithm for finding the shortest path between the two events, from start to an event and from an event to end according to the task.
+We have trained the machine learning algorithm by changing parameters and added noise on the image dataset for it to guess correctly.
+And for the communication between arduino ide and python code, we have used socket library and made our bot to stop when its center passed through the given range of coordinates.
+We have used two python codes, one for the image processing part and the other python code is for the algorithm.
+CSV file will be created by the ML mode code and that csv file is accessed by the algorithm for running rest of the task.
+
